@@ -14,3 +14,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyfghfgdhgdfgdfhgdfghCharm help at https://www.jetbrains.com/help/pycharm/
+
+print('какая-то фигня 6')
