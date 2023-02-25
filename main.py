@@ -16,3 +16,4 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print('тоже какая-то фигня')
 print('Какая-то фигня2')
+print('еще больше какой-то фигни')
